@@ -40,3 +40,17 @@ A boilerplate/starter project for quickly building RESTful APIs using Node.js an
   ```
 - Project ready.
 - You can push/publish to your own github by changing some configuration in `package.json` based on the configuration you want.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+- Fork the Project
+- Create your Feature Branch `git checkout -b feature/AmazingFeature`
+- Commit your Changes `git commit -m 'Add some AmazingFeature`
+- Push to the Branch `git push origin feature/AmazingFeature`
+- Open a Pull Request
+
+## License
+
+Distributed under the [MIT](https://github.com/irfnd/express-boilerplate/blob/master/LICENSE) License.
