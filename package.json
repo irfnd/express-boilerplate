@@ -11,10 +11,10 @@
 		"start": "node app.js",
 		"prepare": "husky install",
 		"lint": "eslint . --cache --fix",
-		"format": "prettier --loglevel warn --write \"**/*.{js,json,md}\""
+		"format": "prettier --loglevel warn --write \"**/*.{js,md}\""
 	},
 	"lint-staged": {
-		"**/*.{js,json,md}": [
+		"**/*.{js,md}": [
 			"eslint . --fix",
 			"prettier --write ."
 		],
